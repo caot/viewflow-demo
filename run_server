@@ -1,0 +1,6 @@
+./manage.py makemigrations
+./manage.py migrate
+
+./manage.py createsuperuser --username=demo --email=demo@demo.com
+
+./manage.py runserver
