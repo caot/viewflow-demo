@@ -1,4 +1,4 @@
 # python 3
-Django==2.2.6
+Django==2.2.8
 django-material==1.5.8    
 django-viewflow==1.5.6    
